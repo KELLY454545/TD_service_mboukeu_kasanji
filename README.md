@@ -16,6 +16,6 @@ POUR SE PROGRAMME ON LA FAIt EN PLUSIEUR ETAPES
  execution du programme :
 
 
- donner les droits execution : chmod +x usbDetectSERV.sh et apres ./usbDetectSERV.s
+ donner les droits execution : chmod +x usbDetectSERV.sh et apres ./usbDetectSERV.sh pour execution de se dernier tu doit te etre dans le chemin suivant /usr/local/bin
 
  
